@@ -23,10 +23,11 @@ Like,
       "Repl.it"
       "Glitch"
       
+(This is not an advertisement!")
+      
 Thank You!
 Regards,
 Alston V. Abraham (alias G77LAIP-wx)
       
-      git add
-      git commit
+      
       
