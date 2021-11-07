@@ -1,11 +1,31 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Alston V. Abraham</h1>
+<h3 align="center">A Person interested in coding! Currently the original owner and coder of Boop-a-BOT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g77laip-wx&label=Profile%20views&color=0e75b6&style=flat" alt="g77laip-wx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g77laip-wx" alt="g77laip-wx" /></a> </p>
 
+- 🔭 I’m currently working on **Boop-a-BOT BETA Testing**
+
+- 🌱 I’m currently learning **Ruby (Beginner's AL-2) and Elixir (Intermediate AL-C)**
+
+- 👯 I’m looking to collaborate on **Developing Boop-a-BOT and it's premium versions**
+
+- 🤝 I’m looking for help with **Setting Up other versions of Boop-a-BOT**
+
+- 👨‍💻 All of my projects are available at [https://github.com/G77LAIP-wx](https://github.com/G77LAIP-wx)
+
+- 💬 Ask me about **Python, HTML(Advanced), Javascript, Rust, C# etc...**
+
+- 📫 How to reach me **alston.v.abraham19@gmail.com**
+
+- ⚡ Fun fact **I'm boom!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/g77laip-wx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="g77laip-wx" height="30" width="40" /></a>
+<a href="https://codesandbox.com/booper_alston" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="booper_alston" height="30" width="40" /></a>
+<a href="https://medium.com/@alston-v-abraham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alston-v-abraham" height="30" width="40" /></a>
 <a href="https://discord.gg/ZNvQHgDW8a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZNvQHgDW8a" height="30" width="40" /></a>
 </p>
 
