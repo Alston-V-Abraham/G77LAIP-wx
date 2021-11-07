@@ -23,10 +23,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/g77laip-wx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="g77laip-wx" height="30" width="40" /></a>
-<a href="https://codesandbox.com/booper_alston" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="booper_alston" height="30" width="40" /></a>
-<a href="https://medium.com/@alston-v-abraham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alston-v-abraham" height="30" width="40" /></a>
-<a href="https://discord.gg/ZNvQHgDW8a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZNvQHgDW8a" height="30" width="40" /></a>
+  <h3>dev.to</h3>
+<a href="https://dev.to/g77laip-wx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="g77laip-wx" height="30" width="40" /></a><hr>
+<br>
+<h3>CodeSandBox</h3>
+<a href="https://codesandbox.com/booper_alston" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="booper_alston" height="30" width="40" /></a><hr>
+<br>
+<h3>Medium.com</h3>
+<a href="https://medium.com/@alston-v-abraham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alston-v-abraham" height="30" width="40" /></a><hr>
+<br>
+<h3>Discord</h3>
+<a href="https://discord.gg/ZNvQHgDW8a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZNvQHgDW8a" height="30" width="40" /></a><hr>
+<br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
