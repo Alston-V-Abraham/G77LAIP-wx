@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alston V. Abraham</h1>
-<h3 align="center">A Person interested in coding! Currently the original owner and coder of Boop-a-BOT</h3>
+<h3 align="center">A Programming Enthusiast! Currently the original owner and coder of Boop-a-BOT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g77laip-wx&label=Profile%20views&color=0e75b6&style=flat" alt="g77laip-wx" /> </p>
 
