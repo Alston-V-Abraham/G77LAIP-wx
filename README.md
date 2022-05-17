@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g77laip-wx" alt="g77laip-wx" /></a> </p>
 
-- 🔭 I’m currently working on **Boop-a-BOT BETA Testing**
+- 🔭 I’m currently working on **Social-X**
 
 - 🌱 I’m currently learning **Ruby (Beginner's AL-2) and Elixir (Intermediate AL-C)**
 
